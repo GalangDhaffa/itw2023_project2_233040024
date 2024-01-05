@@ -1,4 +1,4 @@
-.kntl {
+body {
   font-family: "Josefin Sans", sans-serif;
   /* background-color: #fa0000; */
   z-index: -99;
@@ -138,6 +138,9 @@ nav {
   opacity: 0.5;
 }
 
+/* Service */
+
+
 /* PRODUK */
 .produk {
   /* background-color: #201f33; */
@@ -250,4 +253,22 @@ footer {
   letter-spacing: 1px;
   font-weight: 400;
   margin: 0px 5px;
+}
+
+
+/* page Produk */
+.engine h1 {
+  padding: 100px 0 50px 0;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.pr-bengkel h1 {
+  margin: 0 0 50px 0;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.pr-bengkel {
+  padding: 100px 0 50px 0;
 }
