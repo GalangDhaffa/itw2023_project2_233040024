@@ -63,7 +63,7 @@ nav {
 
 .about div img {
   width: 400px;
-  height: 400px;
+  height: auto;
 }
 
 /* gallery */
@@ -187,7 +187,7 @@ nav {
 
 /* FOOTER */
 footer {
-  background-color: #1e191f;
+  background-color: #607274;
 }
 
 .container-footer {
@@ -249,8 +249,8 @@ footer {
 }
 
 .footer-bottom {
-  background-color: #282828;
-  padding: 20px;
+  background-color: #1e191f;
+  padding: 5px;
   text-align: center;
 }
 
